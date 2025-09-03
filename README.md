@@ -16,7 +16,7 @@ Driver-based approach using billable employee count, utilization rate, and reven
 DCF Analysis with detailed WACC calculation, terminal value, and sensitivity analysis.Comparable Company Analysis with peer multiples (EV/EBITDA).
 
 # Sensitivity Analysis:
-Impact of WACC and Terminal Growth Rate on valuation.
+Impact of WACC and Terminal Growth Rate on implied share price.
 
 # Model Assumptions:
 WACC: 11.2%
